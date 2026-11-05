@@ -86,15 +86,17 @@ I'm a passionate technology enthusiast with experience in Data Engineering, Pyth
 
 ---
 
+
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonKaushal&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DonKaushal&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonKaushal&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DonKaushal&layout=compact&theme=tokyonight)
 
 </div>
+
 
 ---
 
